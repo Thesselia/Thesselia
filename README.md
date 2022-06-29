@@ -1,7 +1,21 @@
-<h1 align="center">Merhaba 👋, Ben <b>Theselia</b>!</h1>
-<h3 align="center">Senior Developer</h3>
+<h1 align="center">Merhaba 👋, Ben Thesselia!</h1>
+<h3 align="center">Kemalist aynı zamanda Militaristim! Kod konusunda ise Senior Developer seviyesindeyim!</h3>
 
-<p align="left"> <a href="https://twitter.com/thesselia" target="blank"><img src="https://img.shields.io/twitter/follow/thesselia?logo=twitter&style=for-the-badge" alt="thesselia" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesselia&label=Profile%20views&color=0e75b6&style=flat" alt="thesselia" /> </p>
+
+- Şu an üzerinde çalıştığım Blog websitem! [Thesselia Blog](https://thesselia-blog.glitch.me/)
+
+- Öğreniyor olduğum **Bash**
+
+- Daha önce bitirmiş olduğum bash oyunum [Sayı tahmin oyunu](https://gist.github.com/Thesselia/78b84fdaa6f090648cdb535dd7eebada)
+
+- Ara verdiğim projem **APT repository**
+
+- Hakkımdaki bilgiler ve proje detaylarım [https://thesselia.glitch.me/](https://thesselia.glitch.me/)
+
+- Bana neler sorabilirsin **NodeJS, HTML vb.**
+
+- Eğlenceli bir gerçek **Kendi evrenim ve bir devletim var.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
