@@ -11,7 +11,7 @@
 
 - Ara verdiğim projem **APT repository**
 
-- Hakkımdaki bilgiler ve proje detaylarım [https://thesselia.glitch.me/](https://thesselia.glitch.me/)
+- Hakkımdaki bilgiler ve proje detaylarım [için gidebileceğiniz kişisel sitem!](https://thesselia.glitch.me/)
 
 - Bana neler sorabilirsin **NodeJS, HTML vb.**
 
